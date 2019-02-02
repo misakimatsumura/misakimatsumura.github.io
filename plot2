@@ -1,0 +1,9 @@
+---
+layout: default
+title: Misaki Matsumura
+---
+<div class="blurb">
+	<h1>Second Plot</h1>
+	<p>Description of the second plot.
+	<embed src="20180918.pdf" width="100%" height="768px" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+</div><!-- /.blurb -->
